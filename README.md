@@ -1,10 +1,13 @@
-- 👋 Hi, I’m @bercianor
-- 👀 I’m interested in many many things: ML, financial analysis, home automation, physics, astronomy...
-- 🌱 I’m currently learning financial analysis.
-- 💞️ I’m looking to collaborate on develop any kind of software of interest.
-- 📫 You can contact me via github (discussion tab in this repo).
+## Social
+[![GitHub](https://img.shields.io/github/followers/bercianor?label=Follow%20me%21&labelColor=171515&style=plastic&logo=github&logoColor=white&color=yellow)](https://github.com/bercianor)
+[![LinkedIn](https://img.shields.io/badge/Ruben_Berciano-0E76A8?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=rubenberciano)
+[![Twitter](https://img.shields.io/badge/bercianor-1DA1F2?style=plastic&logo=twitter&logoColor=white)](https://twitter.com/intent/user?screen_name=bercianor)
 
-<!---
-bercianor/bercianor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Repos
+[![bercianor](https://img.shields.io/github/stars/bercianor?affiliations=OWNER%2CCOLLABORATOR&label=%23bercianor%20All%20Stars&style=social)](https://github.com/bercianor)
+</br>
+[![HomeNetControl](https://img.shields.io/github/stars/bercianor/HomeNetControl?label=HomeNetControl&style=social)](https://github.com/bercianor/HomeNetControl)
+</br>
+[![BlobGasth](https://img.shields.io/github/stars/bercianor/blobgasth?label=BlobGasth&style=social)](https://github.com/bercianor/blobgasth)
+</br>
+[![tradeBro](https://img.shields.io/github/stars/bercianor/tradebro?label=tradeBro%20(soon)&style=social)](https://github.com/bercianor/tradebro)
