@@ -10,4 +10,4 @@
 </br>
 [![BlobGasth](https://img.shields.io/github/stars/bercianor/blobgasth?label=BlobGasth&style=social)](https://github.com/bercianor/blobgasth)
 </br>
-[![tradeBro](https://img.shields.io/github/stars/bercianor/tradebro?label=tradeBro%20(soon)&style=social)](https://github.com/bercianor/tradebro)
+[![tradeBro](https://img.shields.io/github/stars/bercianor/tradebro?label=tradeBro&style=social)](https://github.com/bercianor/tradebro)
