@@ -9,9 +9,3 @@
 ## Repos
 
 [![bercianor](https://img.shields.io/github/stars/bercianor?affiliations=OWNER%2CCOLLABORATOR&label=%23bercianor%20All%20Stars&style=social)](https://github.com/bercianor)
-</br>
-[![HomeNetControl](https://img.shields.io/github/stars/bercianor/HomeNetControl?label=HomeNetControl&style=social)](https://github.com/bercianor/HomeNetControl)
-</br>
-[![BlobGasth](https://img.shields.io/github/stars/bercianor/blobgasth?label=BlobGasth&style=social)](https://github.com/bercianor/blobgasth)
-</br>
-[![tradeBro](https://img.shields.io/github/stars/bercianor/tradebro?label=tradeBro&style=social)](https://github.com/bercianor/tradebro)
