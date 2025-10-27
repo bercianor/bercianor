@@ -3,7 +3,7 @@
 ## 🌐 Socials:
 
 [![GitHub](https://img.shields.io/github/followers/bercianor?label=Follow%20me%21&labelColor=171515&style=plastic&logo=github&logoColor=white&color=yellow)](https://github.com/bercianor)
-[![LinkedIn](https://img.shields.io/badge/Ruben_Berciano-0E76A8?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=rubenberciano)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn:%20Ruben_Berciano-0E76A8?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=rubenberciano)
 [![X](https://img.shields.io/badge/bercianor-black?logo=x&logoColor=white)](https://x.com/intent/user?screen_name=bercianor)
 
 ## 💻 Tech Stack:
