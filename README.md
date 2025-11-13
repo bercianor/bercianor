@@ -9,6 +9,8 @@
 ## 💻 Tech Stack:
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/Java-%23323330.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-%23323330.svg?style=for-the-badge&logo=kotlin&logoColor=%237F52FF)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
@@ -22,7 +24,7 @@
 
 [![bercianor](https://img.shields.io/github/stars/bercianor?affiliations=OWNER%2CCOLLABORATOR&label=%23bercianor%20All%20Stars&style=social)](https://github.com/bercianor)
 
-[![flamingock](https://img.shields.io/github/stars/bercianor/DevEnv?affiliations=OWNER%2CCOLLABORATOR&label=Flamingock%20Stars&style=social)](https://github.com/flamingock/flamingock-java)
+[![flamingock](https://img.shields.io/github/stars/flamingock/flamingock-java?affiliations=OWNER%2CCOLLABORATOR&label=Flamingock%20Stars&style=social)](https://github.com/flamingock/flamingock-java)
 
 [![bercianor](https://img.shields.io/github/stars/bercianor/DevEnv?affiliations=OWNER%2CCOLLABORATOR&label=DevEnv%20Stars&style=social)](https://github.com/bercianor/DevEnv)
 
